@@ -34,7 +34,7 @@ This is not a fixed 30/60/100-day challenge — it's a self-paced series aimed a
 | 6   | [4x1 Multiplexer](./Day6)              | 4-to-1 mux using RTL modeling                     |
 | 7   | [8x1 Multiplexer](./Day7)              | 8-input mux implemented with case statement       |
 | 8   | [1x8 Demultiplexer](./Day8)            | Distributes input signal to one of 8 outputs      |
-| 9   | [4-bit RCA (Revisited)](./Day9)        | Improved version with structured approach         |
+| 9   | [4-bit Carry Lookahead Adder](./Day9)  | Faster adder using carry lookahead logic          |
 | 10  | [BCD Adder](./Day10)                   | Adds two BCD digits with decimal correction       |
 | 11  | [4x4 Binary Multiplier](./Day11)       | Multiplies two 4-bit binary numbers using RTL     |
 
