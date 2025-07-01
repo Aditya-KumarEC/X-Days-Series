@@ -37,7 +37,8 @@ This is not a fixed 30/60/100-day challenge — it's a self-paced series aimed a
 | 9   | [4-bit Carry Lookahead Adder](./Day9)  | Faster adder using carry lookahead logic          |
 | 10  | [BCD Adder](./Day10)                   | Adds two BCD digits with decimal correction       |
 | 11  | [4x4 Binary Multiplier](./Day11)       | Multiplies two 4-bit binary numbers using RTL     |
-
+| 12  | [8-to-3 Encoder](./Day12)              | Converts 8-bit input to 3-bit binary code         |
+| 13  | [8-to-3 Priority Encoder](./Day13)     | Encoder that gives priority to highest input index|
 
 ---
 
