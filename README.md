@@ -34,11 +34,15 @@ This is not a fixed 30/60/100-day challenge — it's a self-paced series aimed a
 | 6   | [4x1 Multiplexer](./Day6)              | 4-to-1 mux using RTL modeling                     |
 | 7   | [8x1 Multiplexer](./Day7)              | 8-input mux implemented with case statement       |
 | 8   | [1x8 Demultiplexer](./Day8)            | Distributes input signal to one of 8 outputs      |
-| 9   | [4-bit Carry Lookahead Adder](./Day9)  | Faster adder using carry lookahead logic          |
+| 9   | [4-bit Carry Lookahead Adder (CLA)](./Day9) | Faster adder using carry lookahead logic     |
 | 10  | [BCD Adder](./Day10)                   | Adds two BCD digits with decimal correction       |
 | 11  | [4x4 Binary Multiplier](./Day11)       | Multiplies two 4-bit binary numbers using RTL     |
 | 12  | [8-to-3 Encoder](./Day12)              | Converts 8-bit input to 3-bit binary code         |
 | 13  | [8-to-3 Priority Encoder](./Day13)     | Encoder that gives priority to highest input index|
+| 14  | [Binary - Gray Code Converter](./Day14)| Converts binary input to its equivalent Gray code |
+| 15  | [Gray - Binary Code Converter](./Day15)| Converts Gray code input to binary format         |
+| 16  | [3-to-8 Decoder](./Day16)              | Decodes 3-bit binary input into 8 output lines    |
+| 17  | [Binary to Excess-3 Converter](./Day17)| Adds 011 to BCD to convert binary to excess-3 code|
 
 ---
 
