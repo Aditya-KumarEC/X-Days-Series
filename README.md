@@ -43,6 +43,9 @@ This is not a fixed 30/60/100-day challenge — it's a self-paced series aimed a
 | 15  | [Gray - Binary Code Converter](./Day15)| Converts Gray code input to binary format         |
 | 16  | [3-to-8 Decoder](./Day16)              | Decodes 3-bit binary input into 8 output lines    |
 | 17  | [Binary to Excess-3 Converter](./Day17)| Adds 011 to BCD to convert binary to excess-3 code|
+| 18  | [Binary to 7-Segment Display](./Day18) | Converts 4-bit binary to 7-segment code           |
+| 19  | [4-bit ALU](./Day19)                   | Performs arithmetic and logic operations          |
+| 20  | [SR Flip-Flop](./Day20)                | Set-Reset flip-flop using RTL modeling            |
 
 ---
 
