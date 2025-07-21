@@ -46,6 +46,8 @@ This is not a fixed 30/60/100-day challenge — it's a self-paced series aimed a
 | 18  | [Binary to 7-Segment Display](./Day18) | Converts 4-bit binary to 7-segment code           |
 | 19  | [4-bit ALU](./Day19)                   | Performs arithmetic and logic operations          |
 | 20  | [SR Flip-Flop](./Day20)                | Set-Reset flip-flop using RTL modeling            |
+| 21  | [JK Flip-Flop](./Day21)                | JK flip-flop with toggling, reset,and set behavior|
+| 22  | [D Flip-Flop](./Day22)                 | Basic D flip
 
 ---
 
