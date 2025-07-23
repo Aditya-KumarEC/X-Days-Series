@@ -47,7 +47,9 @@ This is not a fixed 30/60/100-day challenge — it's a self-paced series aimed a
 | 19  | [4-bit ALU](./Day19)                   | Performs arithmetic and logic operations          |
 | 20  | [SR Flip-Flop](./Day20)                | Set-Reset flip-flop using RTL modeling            |
 | 21  | [JK Flip-Flop](./Day21)                | JK flip-flop with toggling, reset,and set behavior|
-| 22  | [D Flip-Flop](./Day22)                 | Basic D flip
+| 22  | [T Flip-Flop](./Day22)                 | Toggles output on every clock edge if T=1         |
+| 23  | [D Flip-Flop](./Day23)                 | Captures input D at rising clock edge             |
+
 
 ---
 
